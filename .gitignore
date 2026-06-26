@@ -1,0 +1,19 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración del IDE
+.vscode/
+
+# Logs
+*.log
+
+# Archivos temporales de windows
+*:Zone.Identifier

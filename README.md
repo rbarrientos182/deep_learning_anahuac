@@ -16,3 +16,6 @@ Repositorio dedicado a la especialización en **Machine Learning** y **Deep Lear
 ├── .gitignore          # Exclusión de archivos binarios, logs y venv
 ├── requirements.in     # Definición de dependencias base
 └── requirements.txt    # Dependencias bloqueadas (autogeneradas)
+
+
+Desarrollado bajo entorno Linux (WSL2), gestionado mediante venv para garantizar la reproducibilidad y aislamiento de librerías.

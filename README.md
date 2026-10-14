@@ -6,7 +6,7 @@ Repositorio dedicado a la especialización en **Machine Learning** y **Deep Lear
 - **Lenguaje**: Python 3.14
 - **Entorno**: WSL2 (Ubuntu)
 - **Gestión de Dependencias**: `pip-tools` (para entornos deterministas)
-- **Frameworks**: Jupyter, NumPy, Pandas, Matplotlib
+- **Frameworks**: Jupyter, NumPy, Pandas, Matplotlib, TensorFlow
 
 ## 📂 Estructura del Proyecto
 ```text

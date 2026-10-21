@@ -3,7 +3,7 @@
 Repositorio dedicado a la especialización en **Machine Learning** y **Deep Learning**. Este proyecto documenta la transición de modelos teóricos hacia arquitecturas prácticas, siguiendo estándares de ingeniería de software para asegurar la reproducibilidad y el despliegue eficiente.
 
 ## 🚀 Stack Tecnológico y Entorno
-- **Lenguaje**: Python 3.14
+- **Lenguaje**: Python 3.11.17 (versión compatible con los ejercicios y tareas)
 - **Entorno**: WSL2 (Ubuntu)
 - **Gestión de Dependencias**: `pip-tools` (para entornos deterministas)
 - **Frameworks**: Jupyter, NumPy, Pandas, Matplotlib, TensorFlow

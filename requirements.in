@@ -1,7 +1,7 @@
-numpy
+numpy<2
 pandas
 matplotlib
 ipykernel
-tensorflow
+tensorflow==2.15.*
 scikit-learn
 seaborn

@@ -14,6 +14,7 @@ Repositorio dedicado a la especialización en **Machine Learning** y **Deep Lear
 ├── data/               # Datasets académicos para entrenamiento y prueba
 ├── Libreta_1/          # Introducción a deep learning
 ├── Libreta_2/          # Redes neuronales con tensorFlow y Keras
+├── Libreta_3/          # Redes neuronales convolucionales
 ├── .gitignore          # Exclusión de archivos binarios, logs y venv
 ├── requirements.in     # Definición de dependencias base
 └── requirements.txt    # Dependencias bloqueadas (autogeneradas)
